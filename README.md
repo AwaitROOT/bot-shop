@@ -27,23 +27,23 @@ Avant de lancer le bot, vous devez configurer les paramètres dans le fichier `c
 
 - `"token"` : le token de votre bot Discord.
 - `"app_id"` : L'ID de votre bot.
-- `"auteur"` : l'auteur du raid.
+- `"guild"` : Le serveur ou vous utilisez le module ou le bot.
+- `"channel"` : Le salon ou vous utilisez le module ou le bot.
+- `"role"` : Le role donne au nouveau arrivant sur le serveur.
+- `"title"` : Le titre qui apparait sur l'image d'affichage du modules de bienvenue.
+- `"background"` : La localisation de l'image d'affichage du modules de bienvenue.
 
 Vous devez remplir les champs correspondants dans le fichier `config.json` avant d'exécuter le programme.
 
 ### Lancement du programme
 
-Une fois que vous avez configuré les paramètres dans le fichier `config.json`, vous pouvez lancer le programme en exécutant le fichier `main.py`.
+Une fois que vous avez configuré les paramètres dans le fichier `config.json`, vous pouvez lancer le programme en exécutant le fichier `main.py` ou depuis votre hebergeur.
 
-Un `/raid` est intégré
-
-Le bot va raid le serveur.
+Apres lancement un message apparaitra dans la console et vos command seront sous forme de `slash commands`.
 
 ### Remarque
 
-- Ce script est conçu à des fins éducatives uniquement et ne doit pas être utilisé pour nuire à autrui ou violer les conditions d'utilisation de Discord.
-- L'utilisation de ce script pour effectuer un raid sur un serveur sans l'autorisation du propriétaire du serveur est illégale.
-- L'auteur de ce script n'est pas responsable des dommages ou des problèmes juridiques pouvant résulter de l'utilisation de ce script.
+- Ce code est soumis a des loi de droits d'auteur toute usurpation est passible de poursuite.
 
 ## Licence
 
