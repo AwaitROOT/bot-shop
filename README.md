@@ -6,12 +6,13 @@ Ce Bot est fait pour subvenir au besoin d'un discord de vente de services avec u
 
 Si vous utilisez une machine vous aurez simplement besoin de renseigner le fichier `requirements.txt` dans l'onglet startup de votre Hebergeur, n'oublier pas de mettre dans la machine le `main.py` dans `APP PY FILE`
 
-https://media.discordapp.net/attachments/1131599070281089104/1209081086492155924/image.png?ex=65e59f82&is=65d32a82&hm=5b1356a2217f948bb188c0c283decb1f4988caddc4aa7896e6c512ba2c06305f&=&format=webp&quality=lossless&width=546&height=462
+<img src='https://media.discordapp.net/attachments/1131599070281089104/1209081086492155924/image.png?ex=65e59f82&is=65d32a82&hm=5b1356a2217f948bb188c0c283decb1f4988caddc4aa7896e6c512ba2c06305f&=&format=webp&quality=lossless&width=546&height=462'>
 
 ## Autres facons d'installer les modules
 
 Vous allez ouvrire le dossiers de votre bot est dans la localisation de votre dossiers vous allez y inscrire `cmd` et `ENTRER` 
-https://media.discordapp.net/attachments/1131599070281089104/1209081437735616562/image.png?ex=65e59fd6&is=65d32ad6&hm=31a883815fb369c5b0dd8224adcbef02f17c56ee971005affec7e0922bb38b77&=&format=webp&quality=lossless
+
+<img src='https://media.discordapp.net/attachments/1131599070281089104/1209081437735616562/image.png?ex=65e59fd6&is=65d32ad6&hm=31a883815fb369c5b0dd8224adcbef02f17c56ee971005affec7e0922bb38b77&=&format=webp&quality=lossless'>
 
 En suite vous allez inscrire dans l'invite de command:
 
