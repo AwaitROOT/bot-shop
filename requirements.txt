@@ -1,0 +1,9 @@
+discord
+pytz
+requests
+aiofiles
+chardet
+DiscordUtils
+easy_pil
+colorama
+chat-exporter

@@ -1,0 +1,31 @@
+{
+    "token": "MTE5MzIxNTE4NzE2ODI3NjUzMA.GZskFs.ukLNkzCZK72ho7zHaJ6KAYcW77Wi-1FnHisRQ4",
+    "app_id": 1193215187168276530,
+
+    "join": {
+        "guild": 1191390137662312518,
+        "channel": 1191390159585935370,
+        "role": 1192860891931230308,
+        "image": {
+            "title": "Bienvenue sur OxyHosting",
+            "background": "data/welcome.jpg"
+        }
+    },
+
+    "leave": {
+        "guild": 1191390137662312518,
+        "channel": 1191390159585935370,
+        "image": {
+            "title": "A bientot sur OxyHosting",
+            "background": "data/welcome.jpg"
+        }
+    },
+
+    "temprole": {
+        "guild": 1191390137662312518
+    }
+
+
+
+}
+
