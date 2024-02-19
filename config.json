@@ -1,6 +1,6 @@
 {
-    "token": "MTE5MzIxNTE4NzE2ODI3NjUzMA.GZskFs.ukLNkzCZK72ho7zHaJ6KAYcW77Wi-1FnHisRQ4",
-    "app_id": 1193215187168276530,
+    "token": "your_BOTtoken",
+    "app_id": BOTID,
 
     "join": {
         "guild": 1191390137662312518,
